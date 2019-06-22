@@ -1,0 +1,52 @@
+
+.mainpage{
+	width: 98%;
+	height: 100vh;
+	margin: auto;
+}
+
+.mainpage h2{
+	margin: 0;
+	padding: 5px 0;
+}
+
+.mainpage p{
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+
+.mainpage img{
+	height: 235px;
+	width: 235px;
+}
+
+.mainpage .btn{
+	font-weight: bold;
+	color: white;
+	padding: 8px 16px;
+	border: none;
+	margin-bottom: 10px;
+	background-color: #ff0000;
+}
+
+.mainpage .button{
+	font-weight: bold;
+	color: white;
+	padding: 13px 30px;
+	border: none;
+	margin-bottom: 10px;
+	background-color: black;
+}
+
+.mainpage .button:hover{
+	color: black;
+	background-color: white;
+	border-color: black;
+	border: 2px;
+	border-style: solid;
+}
+
+.mainpage .btn:hover{
+	background-color: #bf0000;
+
+}
