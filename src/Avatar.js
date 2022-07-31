@@ -18,7 +18,7 @@ export default function Avatar({
       <img
         height="220px"
         src={`https://joeschmoe.io/api/v1/${name}`}
-        alt="Avatar"
+        alt="Ava"
       />
       <h2 className="name"> {name} </h2>
       <h4 className="dialog">"{dialog}"</h4>
